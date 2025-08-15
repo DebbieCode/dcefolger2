@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>Marriage certificate of David Garrick and Eva Maria Violette, 1749 June 22. [manuscript]</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://digitalcollections.folger.edu/node/108055/manifest-single" xml:id="facs-1">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="5796" lry="4500" sameAs="https://digitalcollections.folger.edu/node/108055/canvas/414373">
+			<label>Marriage certificate of David Garrick and Eva Maria Violette, 1749 June 22. [manuscript]</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F006316.tif"/>
+		</surface>
+	</facsimile>
+	<sourceDoc xml:id="GarrickText">
+		<surface>
+			<line>Garrick Text This is the text Viola Garrick</line>
+		</surface>
+	</sourceDoc>
+</TEI>

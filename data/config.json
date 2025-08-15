@@ -1,7 +1,7 @@
 {
   "id": "ec",
-  "documentName": "hamiltonletter",
-  "iiifManifest": "/dcefolger2/hamilton/iiif/manifest.json",
+  "documentName": "marriage",
+  "iiifManifest": "/dcefolger2/marriage/iiif/manifest.json",
   "transcriptionTypes": {
     "hamilton": "Transcription"
   },
