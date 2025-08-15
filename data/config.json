@@ -3,7 +3,7 @@
   "documentName": "marriage",
   "iiifManifest": "/dcefolger2/marriage/iiif/manifest.json",
   "transcriptionTypes": {
-    "hamilton": "Transcription"
+    "marriage": "Transcription"
   },
   "viewerUrl": "/dcefolger2"
 }
